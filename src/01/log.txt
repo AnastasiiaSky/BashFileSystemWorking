@@ -1,0 +1,30 @@
+/home/user/baaa_051222 ---  5.12.2022 ---
+/home/user/baaa_051222/maaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaa_051222/maaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaa_051222/maaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaa_051222/maaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaa_051222/maaaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaa_051222 ---  5.12.2022 ---
+/home/user/baaaa_051222/maaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaa_051222/maaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaa_051222/maaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaa_051222/maaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaa_051222/maaaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaa_051222 ---  5.12.2022 ---
+/home/user/baaaaa_051222/maaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaa_051222/maaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaa_051222/maaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaa_051222/maaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaa_051222/maaaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaa_051222 ---  5.12.2022 ---
+/home/user/baaaaaa_051222/maaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaa_051222/maaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaa_051222/maaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaa_051222/maaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaa_051222/maaaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaaa_051222 ---  5.12.2022 ---
+/home/user/baaaaaaa_051222/maaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaaa_051222/maaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaaa_051222/maaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaaa_051222/maaaaaa_051222.txt ---  5.12.2022 --- 1kb
+/home/user/baaaaaaa_051222/maaaaaaa_051222.txt ---  5.12.2022 --- 1kb
